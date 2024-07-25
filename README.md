@@ -1,4 +1,4 @@
-# MSQL-Practice-on-FLO-Dataset
+# MSSQL-Practice-on-FLO-Dataset
 This repository contains MSSQL work done using Azure Data Studio installed on a Docker container.
 
 The data set consists of information obtained from the past shopping behavior of customers who made their last purchases as OmniChannel (both online and offline shoppers) in 2020 - 2021.
