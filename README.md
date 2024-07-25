@@ -15,4 +15,4 @@ The data set consists of information obtained from the past shopping behavior of
 * **customer_value_total_ever_offline :** Total price paid by the customer for offline purchases
 * **customer_value_total_ever_online :** Total price paid by the customer for online purchases
 * **interested_in_categories_12 :** List of categories the customer has shopped in the last 12 months
-* * **store_type :** It represents 3 different companies. If a person who shopped from company A also shopped from company B, it is written as A,B.
+* **store_type :** It represents 3 different companies. If a person who shopped from company A also shopped from company B, it is written as A,B.
