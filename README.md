@@ -5,7 +5,7 @@ The data set consists of information obtained from the past shopping behavior of
 
 * **master_id:** Unique customer number
 * **order_channel :** Which channel of the shopping platform is used (Android, iOS, Desktop, Mobile, Offline)
-* **last_order_channel:** The channel where the last purchase was made
+* **last_order_channel :** The channel where the last purchase was made
 * **first_order_date :** Date of the customer's first purchase
 * **last_order_date :** Date of the customer's last purchase
 * **last_order_date_online :** The date of the last purchase made by the customer on the online platform
@@ -15,3 +15,4 @@ The data set consists of information obtained from the past shopping behavior of
 * **customer_value_total_ever_offline :** Total price paid by the customer for offline purchases
 * **customer_value_total_ever_online :** Total price paid by the customer for online purchases
 * **interested_in_categories_12 :** List of categories the customer has shopped in the last 12 months
+* * **store_type :** It represents 3 different companies. If a person who shopped from company A also shopped from company B, it is written as A,B.
