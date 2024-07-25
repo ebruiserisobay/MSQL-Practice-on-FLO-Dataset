@@ -5,7 +5,7 @@ The data set consists of information obtained from the past shopping behavior of
 
 * **master_id:** Unique customer number
 * **order_channel :** Which channel of the shopping platform is used (Android, iOS, Desktop, Mobile, Offline)
-* **ast_order_channel :**The channel where the last purchase was made
+* **last_order_channel :**The channel where the last purchase was made
 * **first_order_date :** Date of the customer's first purchase
 * **last_order_date :** Date of the customer's last purchase
 * **last_order_date_online :** The date of the last purchase made by the customer on the online platform
